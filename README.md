@@ -1,1 +1,0 @@
-# play-k8s-security
