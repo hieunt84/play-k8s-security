@@ -36,6 +36,9 @@ spec:
 ### Ref
 ```
 https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
+
 https://medium.com/the-programmer/working-with-service-account-in-kubernetes-df129cb4d1cc
+
+https://docs.oracle.com/en-us/iaas/Content/ContEng/Tasks/contengaddingserviceaccttoken.htm
 
 ```
