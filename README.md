@@ -13,3 +13,8 @@
 - khi tạo user account có hai cách
   + Cách 1: tạo user và pass
   + Cách 2: tạo certificate private key, public key
+ 
+ ### ref
+ ```
+ https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/
+ ```
